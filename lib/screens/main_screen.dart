@@ -36,7 +36,7 @@ class MainScreenState extends State<MainScreen> {
           backgroundColor: Colors.white,
           title: const Text(
             //!!!!
-            'MUVIME',
+            'MOVIES',
             style: TextStyle(
               color: Color.fromRGBO(0, 0, 0, 1.0),
               fontWeight: FontWeight.w800,
